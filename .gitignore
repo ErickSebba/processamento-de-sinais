@@ -1,0 +1,36 @@
+
+# --- gerado pela etapa 2 do portfólio ---
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*~
+*.pdsbak
+.claude/
+CLAUDE.md
+.DS_Store
+Thumbs.db
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.rar
+*.7z
+
+# material de terceiros e PDFs/Office (fora do repositório)
+referencias/
+*.pdf
+*.zip
