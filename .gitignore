@@ -34,3 +34,6 @@ Thumbs.db
 referencias/
 *.pdf
 *.zip
+
+# autosave do Simulink
+*.autosave
